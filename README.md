@@ -95,7 +95,7 @@ The project is organized into multiple specialized components, each handling dif
 
 ## 📝 License
 
-[Contact maintainers for licensing information]
+Contact maintainers for licensing information
 
 ## 👥 Contributors
 
@@ -104,4 +104,4 @@ Hoang Le
 
 ## 📧 Contact
 
-For questions and support, please [contact maintainers]
+For questions and support, please contact us
