@@ -1,0 +1,27 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+torch = "*"
+numpy = "*"
+transformers = "*"
+datasets = "*"
+timm = "*"
+typeguard = "*"
+accelerate = "*"
+pytesseract = "*"
+gradio = "*"
+librosa = "*"
+tensorflow = "*"
+tensorflow-probability = "*"
+tensorboardx = "*"
+pyloudnorm = "*"
+inflect = "*"
+webrtcvad = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.9"
