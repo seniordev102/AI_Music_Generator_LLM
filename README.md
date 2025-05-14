@@ -99,7 +99,7 @@ The project is organized into multiple specialized components, each handling dif
 
 ## 👥 Contributors
 
-Daniel Lee
+Daniel Lee,
 Hoang Le
 
 ## 📧 Contact
